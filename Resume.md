@@ -71,7 +71,7 @@ Nginx负载均衡及反向代理服务器，缓解服务器压力
 熟悉Spring源码，BeanFactory,Bean生命周期以及后置处理器，能根据业务自定义扩展点。
 熟练掌握链表、哈希表、栈与队列、二叉树等数据结构、熟悉回溯算法、贪心算法、动态规划等算法，阅读过HashMap源码。
 精通分布式事务，XA、TCC、Sega、Seata、主导项目 RocketMq 事务消息选型及落地
-熟悉设计模式，并可以在项目中熟练使用单例、观察者、模板、建造者、代理、工厂等模式。
+熟悉设计模式，并可以在项目中熟练使用单例、观察者、模板、建造者、代理、工厂等模式，阅读过《大话设计模式》，并能运用到实际工作之中。
 熟悉JVM内存模型、熟悉GC底层算法，熟悉各种常见的垃圾回收器，熟悉类加载过程，熟悉JVM调优，并有实战项目经验，详读过《深入理解Java虚拟机》。
 精通并发编程，熟练使用volatile,synchronized,ReentrantLock,CyclicBarrier,CountDownLatchSemaphore 等并发工具类,,对Java的各种锁机制，AQS底层原理等都有深入研究，并在项目中熟练使用。
 熟练掌握Spring、MyBatis、SpringCloud、SpringSecurity、Dubbo 等主流的 Java 开发框架。
@@ -79,7 +79,7 @@ Nginx负载均衡及反向代理服务器，缓解服务器压力
 熟练使用 Redis，可以灵活运用 Redis 的五种数据类型，熟悉 Redis 持久化和过期策略以及集群部署。
 熟练使用 RabbitMq，RocketMq 消息中间件。
 熟悉 Linux 系统下的常规运维工作，熟练通过日志排查线上 Bug，学习过《鸟哥的linux私房菜》，能熟练使用linux进行常规运营工作，并定位线上问题。
-熟练掌握 JDK1.8 新特性，熟练使用 Lambda,Stream 流，LocalDateTime 时间类型。
+熟练掌握 JDK1.8 新特性，熟练使用 Lambda,Stream 流，LocalDateTime 时间类型。
 
 ##个人评价
 Matlab仿真模拟，吉他
